@@ -85,3 +85,7 @@ Turn on/off room lights and fans
 Extend for real-world automation using relays and sensors
 
 Build a smart home prototype
+OUTPUT:
+
+
+![Image](https://github.com/user-attachments/assets/e86f816f-2ee8-4928-9431-61543c277380)
